@@ -6,3 +6,4 @@
 - 2017.07.25 CSS Typography / Layout / CSS3 Responsive Web Design  
 - 2017.07.27 Grid system centering / Bootstrap  
 - 2017.07.28 Javascript Introduction, Syntex Basic, Data Type & Variable  
+- 2017.07.31 Javascript Operator, Javascript Control-flow ,Javascript-object  
